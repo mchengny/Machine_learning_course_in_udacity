@@ -1,7 +1,7 @@
 # Machine Learning Engineering
 
 ## Course Information
-Online Learning with actual projects, further information on [Udacity](https://cn.udacity.com/course/machine-learning-engineer-nanodegree--nd009-cn-advanced-trial).
+Online Learning with actual projects, further information in [Udacity](https://cn.udacity.com/course/machine-learning-engineer-nanodegree--nd009-cn-advanced-trial).
 
 ## Project Content
 - Titanic survival exploration
