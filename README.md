@@ -7,7 +7,7 @@ Online Learning with actual projects, further information on [Udacity](https://c
 - Titanic survival exploration
 - Boston housing prediction
 - Findinf donors
-- Customer segments
+- Creating customer segments
 - Training smart cab
 - Image classification
 - Gender recognition by voice
