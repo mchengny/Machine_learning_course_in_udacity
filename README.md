@@ -3,7 +3,7 @@
 ## Course Information
 Online Learning with actual projects, further information on [Udacity](https://cn.udacity.com/course/machine-learning-engineer-nanodegree--nd009-cn-advanced-trial).
 
-## Project content
+## Project Content
 - Titanic survival exploration
 - Boston housing prediction
 - Findinf donors
